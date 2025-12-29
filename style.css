@@ -10,22 +10,22 @@
 
 
 :root {
-    /* Default Theme - Muted Blue/Purple */
-    --color-bg-primary: #0d1117;
-    --color-bg-secondary: #161b22;
-    --color-bg-tertiary: #21262d;
-    --color-text-primary: #e6edf3;
-    --color-text-secondary: #8b949e;
-    --color-text-muted: #6e7681;
-    --color-accent-primary: #58a6ff;
-    --color-accent-secondary: #8957e5;
-    --color-accent-gradient: linear-gradient(135deg, #6e7bb8 0%, #7d6ba1 100%);
-    --color-accent-gradient-alt: linear-gradient(135deg, #58a6ff 0%, #8957e5 100%);
+    /* Default Theme - Soft Lavender */
+    --color-bg-primary: #1a1625;
+    --color-bg-secondary: #241d2f;
+    --color-bg-tertiary: #2d2438;
+    --color-text-primary: #f0e6f6;
+    --color-text-secondary: #c8b8d4;
+    --color-text-muted: #9d8ba8;
+    --color-accent-primary: #d8a7e8;
+    --color-accent-secondary: #b794c5;
+    --color-accent-gradient: linear-gradient(135deg, #c8a7d8 0%, #b8a4c9 100%);
+    --color-accent-gradient-alt: linear-gradient(135deg, #d8a7e8 0%, #b794c5 100%);
 
     /* Glassmorphism */
-    --glass-bg: rgba(33, 38, 45, 0.7);
-    --glass-border: rgba(255, 255, 255, 0.1);
-    --navbar-bg-scrolled: rgba(22, 27, 34, 0.95);
+    --glass-bg: rgba(45, 36, 56, 0.7);
+    --glass-border: rgba(240, 230, 246, 0.1);
+    --navbar-bg-scrolled: rgba(36, 29, 47, 0.95);
 
     /* Spacing */
     --spacing-xs: 0.5rem;
@@ -47,7 +47,7 @@
     --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.1);
     --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.2);
     --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
-    --shadow-glow: 0 0 40px rgba(137, 87, 229, 0.2);
+    --shadow-glow: 0 0 40px rgba(216, 167, 232, 0.2);
 }
 
 /* Dubai Theme - Inspired by golden architecture, desert sunsets, and Arabian Gulf */
